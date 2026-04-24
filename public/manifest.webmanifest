@@ -1,0 +1,17 @@
+{
+  "name": "aurora 的内务小猪手",
+  "short_name": "内务小猪手",
+  "description": "商户上线流程跟踪工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#275da6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

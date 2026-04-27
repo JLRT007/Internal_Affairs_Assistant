@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">aurora 的内务小猪手</string>
+    <string name="title_activity_main">aurora 的内务小猪手</string>
+    <string name="package_name">com.aurora.internalaffairsassistant</string>
+    <string name="custom_url_scheme">com.aurora.internalaffairsassistant</string>
+</resources>
